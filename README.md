@@ -1,2 +1,1 @@
-# my-assinments-and-projects
-assinments
+Face detection
